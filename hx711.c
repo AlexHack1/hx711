@@ -11,7 +11,7 @@
 #include <stdlib.h>
 
 #define CLOCK_PIN	31
-#define DATA_PIN	30
+#define DATA_PIN	29
 #define N_SAMPLES	64
 #define SPREAD		10
 
